@@ -1,6 +1,6 @@
 # Generate-annotations
 
-## Its just a simple opencv project to directly generate images and annotations from video
+#### Its just a simple opencv project to directly generate images and annotations from video
 
 ## Process
 
