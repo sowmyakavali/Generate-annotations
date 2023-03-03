@@ -6,11 +6,9 @@
 
 #### Create Virtual environment
 
-    py -m venv venv
-    cd venv\Scripts
-    activate
-    cd..\..
-
+    $python -m venv venv
+    $venv\Scripts\activate
+    $pip install -r requirements.txt
 #### Run
 
     python main.py -v {path to video} -l {class name}
